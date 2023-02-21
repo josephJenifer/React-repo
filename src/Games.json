@@ -1,0 +1,17 @@
+{
+    "game1": {
+        "name": "God of War: Ragnarok",
+        "img": "https://images4.alphacoders.com/289/2898.jpg"
+
+    },
+    "game2": {
+        "name": "Horizon: Forbidden West",
+        "img": "https://images6.alphacoders.com/108/1082417.jpg"
+
+    },
+    "game3": {
+        "name": "Call of Duty: Modern Warfare III",
+        "img": "https://images6.alphacoders.com/319/319653.jpg"
+    }
+
+}
